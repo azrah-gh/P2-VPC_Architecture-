@@ -25,7 +25,8 @@ The web application is deployed in a private subnet and accessed securely.
 - Security Groups and NACLs control inbound and outbound traffic
 
 ## Architecture Diagram
-![VPC Architecture]()
+![VPC Architecture](Screenshot_20260111-194731~2.png)
+![VPC Architecture](Screenshot_20260111-122359~2.png)
 
 ## Tools used 
 draw.io(diagrams.net) for architecture design
